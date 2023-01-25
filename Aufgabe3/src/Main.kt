@@ -30,4 +30,4 @@ println(person.isUnderage())
  */
 
 // die variable person wird erstellt und bekommt den wert age = 15 übergeben
-// nun wird die methode birtday für die variable person gestartet und es wird das ergebnis der metode isUnderage in der konsole ausgegeben
+// nun wird die methode birtday für die variable person gestartet (15+1 = 16) und es wird das ergebnis der methode isUnderage in der konsole ausgegeben
