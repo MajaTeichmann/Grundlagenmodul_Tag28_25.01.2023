@@ -1,5 +1,5 @@
 fun main(){
-    var unserFlugzeug: Airplane = Airplane(6,800.0,false)
+    var unserFlugzeug: Airplane = Airplane(6,800.0)
 
     println("Wir wollen abheben!")
     unserFlugzeug.takeOff()

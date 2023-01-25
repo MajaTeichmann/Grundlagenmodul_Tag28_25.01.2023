@@ -14,7 +14,8 @@
 //  - Instanziiere ein Flugzeug-Objekt, lass es fliegen und landen.
 //  - Stelle sicher, das ein Flugzeug nicht abheben kann, wenn es bereits in der Luft ist.
 
-class Airplane(var amountTurbines: Int, var flyingSpeed: Double, var isAirborne: Boolean) {
+class Airplane(var amountTurbines: Int, var flyingSpeed: Double) {
+    var isAirborne: Boolean = false
 
         fun takeOff(){
               if(isAirborne){
