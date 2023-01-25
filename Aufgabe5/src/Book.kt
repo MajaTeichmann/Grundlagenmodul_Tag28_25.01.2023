@@ -1,4 +1,4 @@
-class Book{
+open class Book{
     var pages: List<Page>
     var currentPage: Int
 
