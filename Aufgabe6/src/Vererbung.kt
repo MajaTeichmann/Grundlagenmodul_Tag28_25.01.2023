@@ -30,8 +30,10 @@ fun main(){
 // Dein Haustier heisst Kruemel und ist 3 Jahre alt.
 // false (weil der schlafplatz höher liegt, als das meerschweinchen springen kann)
 
-//todo: Wir instanziieren eine Meerschweinchen-Instanz. In der Meerschweinchen-Klasse ist keine Methode pet(), dennoch können wir die Meerschweinchen-Instanz mit pet() streicheln. Warum?
-// Die Meerschweinchen-Klasse hat keine Eigenschaften name und age, dennoch können wir über die Meerschweinchen-Instanz auf die Eigenschaften zugreifen. Warum?
+//todo: Wir instanziieren eine Meerschweinchen-Instanz. In der Meerschweinchen-Klasse ist keine Methode pet(), dennoch
+// können wir die Meerschweinchen-Instanz mit pet() streicheln. Warum?
+// Die Meerschweinchen-Klasse hat keine Eigenschaften name und age, dennoch können wir über die Meerschweinchen-Instanz
+// auf die Eigenschaften zugreifen. Warum?
 //Wir können in der Klasse Meerschweinchen auf alles zugreifen, was in der Klasse Haustier steht. Umgekehrt aber nicht.
 
 //todo: Was macht das Keyword? open

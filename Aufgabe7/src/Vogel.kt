@@ -1,6 +1,4 @@
-open class Vogel(weight: Double, canFly: Boolean) {
-    var weight: Double = weight
-    var canFly: Boolean = canFly
+open class Vogel(var weight: Double, var canFly: Boolean) {
 
     fun makeNoise() {
         println("Animal noises")
